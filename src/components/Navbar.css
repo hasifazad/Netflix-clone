@@ -1,0 +1,20 @@
+.navbar > .header{
+    display: flex;
+    justify-content: space-between;
+    /* background-color: black; */
+    padding: 5px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
+
+.signup{
+    background-color: #D81F26;
+    color: white;
+    cursor: pointer;
+    border-style: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    font-size: medium;
+    margin: 8px 20px 0 0;
+}

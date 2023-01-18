@@ -1,0 +1,16 @@
+.banner > .outer{
+    margin-top: 100px;
+    display: flex;
+}
+
+.poster{
+    margin: 50px;
+}
+
+.button{
+    margin-right: 1em;
+    padding: 0.5em 1em 0.5em 1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
